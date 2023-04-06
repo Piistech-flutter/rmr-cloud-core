@@ -1,1 +1,2 @@
-export 'enums.dart';
+export 'src/enums.dart';
+export 'src/entity/credential.dart';
